@@ -1,3 +1,5 @@
+# A Web3 DEMO, Enter the ERC20 contract address to find the balance of the current account in this ERC20 contract
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
